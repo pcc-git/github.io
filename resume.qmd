@@ -1,9 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Brother Cannon's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Paul C. Cannon
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>

@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Your_Name Data Science Portfolio"
+  title: "Paul C. Cannon Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
   repo-url: https://github.com/your_url
@@ -27,8 +27,8 @@ website:
         file: cleansing.qmd
       - text: "Data Exploration"
         file: exploration.qmd
-      - text: "Story Telling"
-        file: story_telling.qmd
+      #- text: "Data Insights"
+      #  file: story_telling.qmd
       - text: "Machine Learning"
         file: ml.qmd
       - text: "Full Stack"

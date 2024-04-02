@@ -144,7 +144,14 @@
     "href": "resume.html#work-experience",
     "title": "Paul C. Cannon",
     "section": "Work Experience",
-    "text": "Work Experience\nData Science Faculty, Brigham Young University - Idaho, Jan 24-Present * Equip undergraduates to become legendary in Data Science-related careers and cultivate sound thinkers able to navigate an industry in constant flux\nVisiting Faculty, Brigham Young University - Idaho, Sep 21-Dec 23 * Teaching Data Science Programming (Python and R) and Statistics\nGlobal Manufacturing Excellence Manager, May 20-Aug 21 * Drive adoption and integration of new analytics in Global Vegetables Production\nSenior Data Science Lead; Bayer, Oct 19-May 20 * Engage with unit leads and scientists globally to influence key decisions impacting the Product Supply * Drive development and adoption of predictive analytics in Global Seed Production Innovation\nManufacturing Technology Analytics Lead; Monsanto/Bayer, Apr 16-Oct 19 * Lead core team of Data Scientists to develop and implement data-driven technologies in manufacturing globally * Global Seed Technology, Statistician and Six Sigma Lead; Monsanto, Jun 12-Apr 16 * Provide statistical expertise to Global Manufacturing * Lead instructor for training Six Sigma Black Belts\nStatistician/North America Six Sigma Lead; Monsanto, Aug 07-Jun 12 * Manage Six Sigma program and training in North America; continuous improvement project management; mentor trainees\nWorld Health Organization (WHO), Temporary Adviser, Jan-Aug 07 * Advised WHO statisticians on use of a new methodology for the Study on Global Aging and Adult Health\nStatistician, BYU Brain Imaging Lab; Dept. of Psychology, Oct 06-Aug 07 * NIH grant investigating neuropsychological abnormalities in Autistic patients * Tutored PhD candidates and consulted on dissertations\nResearch Assistant * Statistical Natural Language Model and authorship identification\nTeaching Assistant, Brigham Young University, Statistics Department 4 Years; * Stochastic Processes, Statistical Computing, Multivariate Methods, Engineering Statistics\nStatistical Clerk, US Department of Energy, Washington DC, May-Aug 04 * Energy Information Administration (EIA) Statistics and Methods Group"
+    "text": "Work Experience\nData Science Faculty, Brigham Young University - Idaho, Jan 24-Present\n\nEquip undergraduates to become legendary in Data Science-related careers and cultivate sound thinkers able to navigate an industry in constant flux\n\nVisiting Faculty, Brigham Young University - Idaho, Sep 21-Dec 23\n\nTeaching Data Science Programming (Python and R) and Statistics\n\nGlobal Manufacturing Excellence Manager, May 20-Aug 21\n\nDrive adoption and integration of new analytics in Global Vegetables Production\n\nSenior Data Science Lead; Bayer, Oct 19-May 20\n\nEngage with unit leads and scientists globally to influence key decisions impacting the Product Supply\nDrive development and adoption of predictive analytics in Global Seed Production Innovation\n\nManufacturing Technology Analytics Lead; Monsanto/Bayer, Apr 16-Oct 19\n\nLead core team of Data Scientists to develop and implement data-driven technologies in manufacturing globally\nGlobal Seed Technology, Statistician and Six Sigma Lead; Monsanto, Jun 12-Apr 16\nProvide statistical expertise to Global Manufacturing\nLead instructor for training Six Sigma Black Belts\n\nStatistician/North America Six Sigma Lead; Monsanto, Aug 07-Jun 12\n\nManage Six Sigma program and training in North America; continuous improvement project management; mentor trainees\n\nWorld Health Organization (WHO), Temporary Adviser, Jan-Aug 07\n\nAdvised WHO statisticians on use of a new methodology for the Study on Global Aging and Adult Health\n\nStatistician, BYU Brain Imaging Lab; Dept. of Psychology, Oct 06-Aug 07\n\nNIH grant investigating neuropsychological abnormalities in Autistic patients\nTutored PhD candidates and consulted on dissertations\n\nResearch Assistant\n\nStatistical Natural Language Model and authorship identification\n\nTeaching Assistant, Brigham Young University, Statistics Department 4 Years;\n\nStochastic Processes, Statistical Computing, Multivariate Methods, Engineering Statistics\n\nStatistical Clerk, US Department of Energy, Washington DC, May-Aug 04\n\nEnergy Information Administration (EIA) Statistics and Methods Group"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Paul C. Cannon",
+    "section": "Skills",
+    "text": "Skills\nPredictive Modeling:\n\nMachine Learning with scikit-learn and TensorFlow+keras in Python\nMultivariate methods, hierarchical models, generalized linear mixed models, supervised and unsupervised learning in R\n\nData organization and manipulation:\n\nPython Pandas, R Tidyverse\n\nData Visualization\n\nseaborn, plotly, altair in Python\nGGPlot in R\n\nStatistical Design\n\nExperimental Design, Six Sigma"
   },
   {
     "objectID": "resume.html#certifications-and-honors",
@@ -158,13 +165,6 @@
     "href": "resume.html#education",
     "title": "Paul C. Cannon",
     "section": "Education",
-    "text": "Education\n\nBrigham Young University\nMS Statistics 2008, GPA: 3.81\nBS Statistics, Business Management minor\nJoint Program in Survey Methodology Junior Fellow, University of Michigan/University of Maryland, Summer 2004"
-  },
-  {
-    "objectID": "resume.html#skills",
-    "href": "resume.html#skills",
-    "title": "Paul C. Cannon",
-    "section": "Skills",
-    "text": "Skills\nPredictive Modeling: - Machine Learning with scikit-learn and TensorFlow+keras in Python - Multivariate methods, hierarchical models, generalized linear mixed models, supervised and unsupervised learning in R Data organization and manipulation: - Python Pandas, R Tidyverse Data Visualization - seaborn, plotly, altair in Python - GGPlot in R Statistical Design - Experimental Design, Six Sigma"
+    "text": "Education\n\nBrigham Young University\n\nMS Statistics 2008, GPA: 3.81\nBS Statistics, Business Management minor\n\nJoint Program in Survey Methodology Junior Fellow, University of Michigan/University of Maryland, Summer 2004"
   }
 ]
